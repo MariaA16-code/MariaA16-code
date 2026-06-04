@@ -1,5 +1,5 @@
 
-# Hi, I'm Marria Amir 
+# Hi, I'm Maria Amir 
 
 Final-year Information Engineering Technology student
 at University of Lahore.
