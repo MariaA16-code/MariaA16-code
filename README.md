@@ -1,20 +1,20 @@
 
-# Hi, I'm Marria Amir 👋
+# Hi, I'm Marria Amir 
 
 Final-year Information Engineering Technology student
 at University of Lahore.
 
-## 🔧 Tech Stack
+##  Tech Stack
 - Python, Flask, Django
 - HTML, CSS, JavaScript
 - MySQL, SQLAlchemy
 - Machine Learning (Scikit-learn, NLTK, spaCy)
-- Git, GitHub, Linux
+- Git, GitHub, 
 
-## 🚀 Current Projects
+##  Current Projects
 - **ShieldNet** — Cyber Harassment Reporting Platform (FYP)
 - **BrainBattle** — Quiz Platform (Semester Project)
 
 ## 📫 Contact
-- Email: amirmaria796@gmail.com
+- Email: maria.amir.tech@gmail.com
 
